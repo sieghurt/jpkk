@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gsmrs version="2.0" sport="soccer" lang="cn" last_generated="2016-11-09 03:48:00" last_updated="2016-11-06 19:23:11">
+    <competition competition_id="8" name="英超联赛" type="club" area_id="68" area_name="英格兰" last_updated="2016-11-08 20:55:45" soccertype="default">
+        <season season_id="12653" name="2016/2017" start_date="2016-08-13" end_date="2017-05-21" service_level="0" last_updated="2016-11-06 19:23:11">
+            <round round_id="35992" name="常规赛" start_date="2016-08-13" end_date="2017-05-21" type="table" groups="0" has_outgroup_matches="no" last_updated="2016-11-06 19:23:11">
+                <match match_id="2241765" ow_match_id="855178" date_utc="2016-08-13" time_utc="11:30:00" date_london="2016-08-13" time_london="12:30:00" team_A_id="725" ow_team_A_id="88" team_A_name="赫尔城" team_A_country="ENG" team_B_id="682" ow_team_B_id="13" team_B_name="莱切斯特城" team_B_country="ENG" status="Played" gameweek="1" winner="team_A" fs_A="2" fs_B="1" hts_A="1" hts_B="0" ets_A="" ets_B="" ps_A="" ps_B="" last_updated="2016-11-05 09:44:14"/>
+                <match match_id="2242138" ow_match_id="855551" date_utc="2017-05-21" time_utc="14:00:00" date_london="2017-05-21" time_london="15:00:00" team_A_id="696" ow_team_A_id="57" team_A_name="沃特福德" team_A_country="ENG" team_B_id="676" ow_team_B_id="43" team_B_name="曼城" team_B_country="ENG" status="Fixture" gameweek="38" winner="yet unknown" fs_A="" fs_B="" hts_A="" hts_B="" ets_A="" ets_B="" ps_A="" ps_B="" last_updated="2016-11-06 14:38:14"/>
+            </round>
+        </season>
+    </competition>
+</gsmrs>
